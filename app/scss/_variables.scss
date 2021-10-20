@@ -1,0 +1,59 @@
+
+// Variables
+$navbar-height-320px: 37px;
+$navbar-height-640px: 74px;
+$navbar-height-980px: 97px;
+$base-font:'Montserrat', sans-serif;
+
+$food-images: (
+    pizza:"../app/images/980px/Pizza delivery fon copy@1X.png",
+    salad:"../app/images/980px/UA_UX Salads fon copy@1X.png",
+    deserts:"../app/images/980px/Desserts fon copy@1X.png",
+);
+
+
+// Media Queries
+$mq-320-down: "only screen and (max-width: 320px)";
+$mq-320-up: "only screen and (min-width: 320px)";
+
+$mq-640-down: "only screen and (max-width: 640px)";
+$mq-640-up: "only screen and (min-width: 640px)";
+
+$mq-980-down: "only screen and (max-width: 980px)";
+$mq-980-up: "only screen and (min-width: 979px)";
+
+$mq-1200-down: "only screen and (max-width: 1200px)";
+$mq-1200-up: "only screen and (min-width: 1200px)";
+
+/**
+$mq-620-down: "only screen and (max-width: 620px)";
+$mq-620-up: "only screen and (min-width: 620px)";
+
+$mq-760-down: "only screen and (max-width: 759px)";
+$mq-760-up: "only screen and (min-width: 760px)";
+
+$mq-900-down: "only screen and (max-width: 899px)";
+$mq-900-up: "only screen and (min-width: 900px)";
+
+$mq-1000-down: "only screen and (max-width: 999px)";
+$mq-1000-up: "only screen and (min-width: 1000px)";
+
+$mq-1180-up: "only screen and (min-width: 1180px)";
+
+$mq-1400-up: "only screen and (min-width: 1400px)";
+
+
+/**
+$mq-320-down: "only screen and (max-width: 320px)";
+$mq-320-up: "only screen and (min-width: 320px)";
+
+$mq-640-down: "only screen and (max-width: 640px)";
+$mq-640-up: "only screen and (min-width: 640px)";
+
+$mq-980-down: "only screen and (max-width: 980px)";
+$mq-980-up: "only screen and (min-width: 980px)";
+
+$mq-1200-down: "only screen and (max-width: 1200px)";
+$mq-1200-up: "only screen and (min-width: 1200px)";
+
+*/
