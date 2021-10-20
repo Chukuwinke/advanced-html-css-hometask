@@ -1,7 +1,7 @@
 {
   "name": "advanced-html-css-hometask1",
   "version": "1.0.0",
-  "description": "Simple front-end boilerplate using Gulp 4",
+  "description": "Pizza hometask",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
@@ -9,7 +9,6 @@
   },
   "keywords": [
     "gulp",
-    "boilerplate",
     "html",
     "css",
     "javascript"
